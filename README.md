@@ -22,7 +22,7 @@ This project is an interactive Power BI dashboard built using an e-commerce data
 ---
 
 ##  Dashboard Preview
-
+![Dashboard Screenshot](dashboard.jpg)
 
 
 ---
